@@ -1,0 +1,6 @@
+Python
+Pandas for data handling
+Matplotlib and Seaborn for data visualization
+NLTK for text preprocessing
+Scikit-learn for machine learning utilities
+TensorFlow/Keras for building and training neural network models
